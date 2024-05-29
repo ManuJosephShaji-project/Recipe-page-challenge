@@ -1,7 +1,4 @@
 
-### Screenshot
-
-(./asstes/images/Screenshot recipe-web-page.jpg)
 
 ### Built with
 
